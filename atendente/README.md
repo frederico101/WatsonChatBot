@@ -1,4 +1,4 @@
-# watsonbot
+# atendente
 
 ## Project setup
 ```
